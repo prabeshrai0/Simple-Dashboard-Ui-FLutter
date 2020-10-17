@@ -1,4 +1,4 @@
-# modren_college_dashboard
+# modren_Ui_dashboard
 
 A new Flutter application.
 
